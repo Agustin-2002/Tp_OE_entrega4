@@ -10,3 +10,8 @@ Docente adjunto: Prof. Carolina Bruno
 Docente adjunto: Prof. Mario Raúl López 
 Docente adjunto: Prof. Andrea Ramos
 1 de nov. de 26
+
+
+
+DECLARACION DE USO DE I.A
+No hubo uso de I.A generativa en este trabajo
