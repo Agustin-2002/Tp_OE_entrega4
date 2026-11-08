@@ -15,3 +15,5 @@ En este trabajo se busca la creación de un software que permita crear, almacena
 
 DECLARACION DE USO DE I.A
 No hubo uso de I.A generativa en este trabajo
+
+La revisión del PR fue realizada por el propio autor por tratarse de un trabajo individual; los comentarios y correcciones quedan documentados en el PR
